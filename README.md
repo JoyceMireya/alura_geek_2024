@@ -4,7 +4,7 @@ Formación Front End | Alura Geek
 
 Consiste en crear una tienda en línea llamada "Alura Geek" donde se puedan listar productos, permitir la búsqueda de artículos, y gestionar un carrito de compras.
 
-Funcionalidades Clave:
+**Funcionalidades Clave:**
 
 - Página de inicio: Mostrar una lista de productos destacados.
 - Página de productos: Permitir la visualización detallada de cada producto.
